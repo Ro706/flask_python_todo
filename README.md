@@ -16,10 +16,13 @@ This is a simple **Todo List web application** built using Flask and SQLAlchemy.
    cd flask_python_todo
    ```
 
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. ## Requirements
+```
+- Python 3.6+
+- Flask
+- Flask-SQLAlchemy
+- PyMySQL
+```
 
 3. **Configure the Database**:
    - Open `app.py` and modify the `SQLALCHEMY_DATABASE_URI` to point to your MySQL database.

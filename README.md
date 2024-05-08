@@ -12,8 +12,8 @@ This is a simple **Todo List web application** built using Flask and SQLAlchemy.
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/Ro706/flask_python_todo.git](https://github.com/Ro706/flask_python_todo/)
-   cd todo-list-app
+   git clone https://github.com/Ro706/flask_python_todo/
+   cd flask_python_todo
    ```
 
 2. **Install Dependencies**:

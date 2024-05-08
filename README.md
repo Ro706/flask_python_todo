@@ -1,7 +1,3 @@
-Certainly! Below is a **sample README file** for your Flask application. You can include this in your GitHub repository to provide instructions for others who want to run your app:
-
----
-
 # Todo List Web App
 
 This is a simple **Todo List web application** built using Flask and SQLAlchemy. Users can add, complete, and delete tasks from their todo list.
